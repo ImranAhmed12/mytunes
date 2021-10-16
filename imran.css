@@ -1,0 +1,215 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: cursive;
+}
+.main ul
+{
+    float: left;
+    list-style-type: none;
+    margin-top: 5px;
+    
+}
+.main ul li {
+    display: inline-block;
+}
+header{
+    
+    background-color: #333;
+    width: 100%;
+    height: 35px;
+}
+.main ul li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 25px;
+color: #eeeeee;
+    font-size:17px; 
+}
+
+.main ul li a:hover
+{
+    color: #ababab;
+    border:1px solid;
+}
+
+
+
+
+
+.one
+{
+background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,0.5)), url(images/guitar.jpeg);
+    background-attachment: fixed;
+    
+    
+    
+    
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.one h1,.one h4
+{
+    text-align: center;
+}
+.one .two h1
+{
+    font-size: 60px;
+    color: #fff;
+}
+.one .two h4
+{
+    margin-top: 18px;
+    font-size: 24px;
+    color: #fff;
+}
+.one .two p{
+    margin:30px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #fff;
+    
+}
+.one .two h3
+{
+    margin-left: 140px;
+    color: #fff;
+    
+}
+.music{
+    background-color:black;
+    height: 1100px;
+ color: #fff; 
+    padding-top: 50px;
+}
+.music h1{
+    font-size: 40px;
+}
+.music h3
+{
+    font-size: 30px;
+}
+.music h4
+{
+    
+    padding-left: 118px;
+}
+.music a{
+    
+margin-left: 575px;
+border: 1px solid red;
+    background-color: red;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+    padding: 15px;
+
+}
+
+.music h5
+{
+    margin-top: 40px;
+}
+.the
+{
+ background-color:#fff;
+    height: 1100px;
+ color: #fff; 
+    padding-top: 50px;   
+}
+.the h2{
+    color: black;
+}
+.the p
+{
+    color: black;
+    margin-top: 30px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.the a{
+    border: 1px solid blue;
+    text-decoration: none;
+    background-color: blueviolet;
+    color: #fff;
+    padding: 10px;
+    
+    
+}
+.the img{
+    margin-top: 20px;
+    
+}
+.world{ 
+    background-image: url(images/3galaxy.jpeg);
+    height: 100vh;
+    margin-top: 95px;
+
+}
+.world h2
+{
+    padding-top: 160px;
+    color: #fff;    
+    
+}
+.world p{
+    color: #fff;
+    margin:30px;
+    font-size: 20px;
+}
+.gift{
+    margin-top: 300px;
+}
+
+
+.imr .imra img{
+    width:500px;
+}
+.imr{
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+    padding: 10px;
+}
+.imra a{
+    color:rosybrown;
+    
+}
+.last{
+    display: flex;
+    justify-content: space-around;
+}
+.last{
+    background-color: #333;
+    padding: 40px;
+
+}
+.list{
+    padding: 10px;
+    color: #fff;
+}
+.copy{
+    background-color: black;
+    
+}
+.copy h3{
+    color: #fff;
+    padding: 20px;
+    font-family: monospace;
+}
+ul
+{
+    list-style: none;
+}
+.copy h2
+{
+  color: #fff;  
+    font-family: cursive;
+}

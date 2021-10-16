@@ -1,0 +1,15 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.col{
+    display: flex;
+    justify-content: space-between;
+}
+.row img{
+    border: 2px transparent black;
+    border-radius: 25px;
+    margin: 10px 10px;
+    height: 90vh;
+}
