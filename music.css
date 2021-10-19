@@ -13,3 +13,16 @@
     margin: 10px 10px;
     height: 90vh;
 }
+.row{
+    background-color: burlywood;
+}
+.row p{
+    color:#ffffff;
+    margin: 175px 175px;
+    padding: 20px;
+    font-family: cursive;
+    border: 2px solid black;
+    border-radius: 25px;
+    
+    
+}
